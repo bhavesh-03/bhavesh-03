@@ -16,8 +16,6 @@
   </a>
 </p>
 
-<h1 align="center">GitHub stats</h1>
-
 <h1 align="center">Heatmap</h1>
 <img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="Snake animation" />
 
