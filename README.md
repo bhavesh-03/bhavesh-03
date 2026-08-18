@@ -17,11 +17,6 @@
 </p>
 
 <h1 align="center">GitHub stats</h1>
-<p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
-</p>
 
 <h1 align="center">Heatmap</h1>
 <img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="Snake animation" />
