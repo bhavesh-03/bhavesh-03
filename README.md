@@ -1,7 +1,7 @@
 ![MasterHead](header.png)
 
 <h1 align="center">About me</h1>
-<p align="center">I am a full-stack cross-platform app developer, pursuing my Bachlors's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to make meaningful applications with best UI practices.</p>
+<p align="center">Software Enginner At JP Morgan Chase Mumbai, Turning Ideas into Scalable Products.</p>
 
 
 <p align="center">
