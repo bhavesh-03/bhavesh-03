@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas into scalable products and working across the stack, from front ends to APIs and databases.
+I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas into scalable products and working across the stack, from front ends to APIs and databases. I build practical AI-powered applications.
 
 - 💼 Software Engineer at JPMorganChase, Mumbai
 - 🌱 Interested in scalable systems, intuitive UIs, and practical AI applications
@@ -88,16 +88,17 @@ I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas in
 
 ---
 
-### Applied AI
+### GitHub stats
 
-Interested in building useful AI features: LLM-powered applications, retrieval-augmented generation (RAG), agents with tool calling, and evaluating responses for quality and reliability.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavesh-03&amp;theme=github_dark" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhavesh-03&amp;theme=github_dark" height="165" alt="Top languages by commit" />
+</p>
 
----
-
-### Contributions
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="GitHub contribution snake" />
 </picture>
+</p>
