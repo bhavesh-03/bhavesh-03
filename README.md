@@ -24,36 +24,14 @@ I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas in
 
 ### Tech stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,ts&amp;perline=10" alt="C, C++, Python, Java, Swift, JavaScript, TypeScript" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express,postgres,mysql,mongodb,sqlite&amp;perline=10" alt="Spring, FastAPI, Django, Flask, Node.js, Express, PostgreSQL, MySQL, MongoDB, SQLite" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,redux,bootstrap,materialui&amp;perline=10" alt="Angular, React, Next.js, Tailwind CSS, Redux, Bootstrap, Material UI" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;perline=10" alt="Git, GitHub, VS Code, Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-</p>
-
-**Deployment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify&amp;perline=10" alt="Vercel, Netlify" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,ts" height="32" alt="C, C++, Python, Java, Swift, JavaScript, TypeScript" /><br><sub>C · C++ · Python · Java · Swift · JavaScript · TypeScript</sub> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,redux,bootstrap,materialui" height="32" alt="Angular, React, Next.js, Tailwind CSS, Redux, Bootstrap, Material UI" /><br><sub>Angular · React · Next.js · Tailwind · Redux · Bootstrap · Material UI</sub> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express" height="32" alt="Spring, FastAPI, Django, Flask, Node.js, Express" /><br><sub>Spring · FastAPI · Django · Flask · Node.js · Express</sub> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="32" alt="PostgreSQL, MySQL, MongoDB, SQLite" /><br><sub>PostgreSQL · MySQL · MongoDB · SQLite</sub> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="32" alt="Git, GitHub, VS Code, Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="32" height="32" alt="Canva" /><br><sub>Git · GitHub · VS Code · Figma · Canva</sub> |
+| **Deployment** | <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" height="32" alt="AWS, Vercel, Netlify" /><br><sub>AWS · Vercel · Netlify</sub> |
 
 ---
 
