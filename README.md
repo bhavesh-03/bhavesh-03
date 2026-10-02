@@ -16,9 +16,9 @@
 
 I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas into scalable products and working across the stack, from front ends to APIs and databases.
 
-- 💼 Software Engineer at JPMorganChase
-- 🛠️ Building with React, Node.js, Python, and C++
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bhavesh-mankar-7420ba22a/) or [email](mailto:bmmankar25@gmail.com)
+- 💼 Software Engineer at JPMorganChase, Mumbai
+- 🌱 Interested in scalable systems, intuitive UIs, and practical AI applications
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bhavesh-mankar-7420ba22a/), [email](mailto:bmmankar25@gmail.com), or my [website](https://bhaveshmankar.vercel.app/)
 
 ---
 
@@ -27,19 +27,26 @@ I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas in
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js&amp;perline=10" alt="C++, Python, JavaScript" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui&amp;perline=10" alt="React, Redux, HTML, CSS, Bootstrap, Material UI" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,js,ts&amp;perline=10" alt="C, C++, Python, Java, Swift, JavaScript, TypeScript" />
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sequelize,firebase&amp;perline=10" alt="Node.js, Express, MySQL, MongoDB, Sequelize, Firebase" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express,postgres,mysql,mongodb,sqlite&amp;perline=10" alt="Spring, FastAPI, Django, Flask, Node.js, Express, PostgreSQL, MySQL, MongoDB, SQLite" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,redux,bootstrap,materialui&amp;perline=10" alt="Angular, React, Next.js, Tailwind CSS, Redux, Bootstrap, Material UI" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&amp;perline=10" alt="Git, GitHub, VS Code, Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 </p>
 
 **Deployment**
@@ -47,6 +54,12 @@ I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas in
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify&amp;perline=10" alt="Vercel, Netlify" />
 </p>
+
+---
+
+### Applied AI
+
+Interested in building useful AI features: LLM-powered applications, retrieval-augmented generation (RAG), agents with tool calling, and evaluating responses for quality and reliability.
 
 ---
 
