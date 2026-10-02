@@ -1,42 +1,57 @@
-![MasterHead](header.png)
-
-<h1 align="center">About me</h1>
-<p align="center">Software Enginner At JP Morgan Chase Mumbai, Turning Ideas into Scalable Products.</p>
-
-
-<p align="center">
-  <a href="https://bhaveshmankar.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge"/>
-  </a>
-  <a href="mailto://bmmankar25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNDAwIDQwMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9IlhNTElEXzFfIj4NCgk8cG9seWdvbiBpZD0iWE1MSURfODY5XyIgcG9pbnRzPSIwLDEyNy41IDAsMjc0LjIxOSAxMDQuOCwyMDYuMSAJIi8+DQoJPHBvbHlnb24gaWQ9IlhNTElEXzg3MF8iIHBvaW50cz0iNDAwLDI3NC4yMTkgNDAwLDEyNy41IDI5NS4yLDIwNi4xIAkiLz4NCgk8cG9seWdvbiBpZD0iWE1MSURfODcxXyIgcG9pbnRzPSIyMDAsMjc3LjUgMTMwLjM1NywyMjUuMjY4IDAsMzEwIDAsMzQwIDQwMCwzNDAgNDAwLDMxMCAyNjkuNjQzLDIyNS4yNjggCSIvPg0KCTxwb2x5Z29uIGlkPSJYTUxJRF84NzJfIiBwb2ludHM9IjAsOTAgMjAwLDI0MCA0MDAsOTAgNDAwLDYwIDAsNjAgCSIvPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo="/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhavesh-mankar-7420ba22a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<!-- Custom banner: assets/profile-banner.svg -->
+<p>
+  <img src="./assets/profile-banner.svg" width="100%" alt="Bhavesh Mankar — Software Engineer. Turning ideas into scalable products. Mumbai, India." />
 </p>
 
-<h1 align="center">Heatmap</h1>
-<img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="Snake animation" />
-
-
-<h1 align="center">Technologies used</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <a href="https://bhaveshmankar.vercel.app/"><b>Portfolio ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bhavesh-mankar-7420ba22a/"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:bmmankar25@gmail.com"><b>Email ↗</b></a>
+</p>
+
+<br />
+
+### A little about me
+
+I'm **Bhavesh**, a **Software Engineer at JPMorgan Chase** in Mumbai. I turn ideas into scalable products, working across interfaces, APIs, and databases.
+
+I care about clean interfaces and the engineering that makes them work.
+
+<br />
+
+### My toolbox
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-172033?style=flat-square&amp;logo=cplusplus&amp;logoColor=60a5fa" alt="C++" /> <img src="https://img.shields.io/badge/Python-172033?style=flat-square&amp;logo=python&amp;logoColor=facc15" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-172033?style=flat-square&amp;logo=javascript&amp;logoColor=facc15" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-172033?style=flat-square&amp;logo=html5&amp;logoColor=fb923c" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-172033?style=flat-square&amp;logo=css&amp;logoColor=60a5fa" alt="CSS3" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-172033?style=flat-square&amp;logo=react&amp;logoColor=67e8f9" alt="React" /> <img src="https://img.shields.io/badge/Redux-172033?style=flat-square&amp;logo=redux&amp;logoColor=c4b5fd" alt="Redux" /> <img src="https://img.shields.io/badge/Material%20UI-172033?style=flat-square&amp;logo=mui&amp;logoColor=60a5fa" alt="Material UI" /> <img src="https://img.shields.io/badge/Bootstrap-172033?style=flat-square&amp;logo=bootstrap&amp;logoColor=c4b5fd" alt="Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; data</b></td>
+    <td><img src="https://img.shields.io/badge/Node.js-172033?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86efac" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-172033?style=flat-square&amp;logo=express&amp;logoColor=e2e8f0" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-172033?style=flat-square&amp;logo=mysql&amp;logoColor=7dd3fc" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-172033?style=flat-square&amp;logo=mongodb&amp;logoColor=86efac" alt="MongoDB" /> <img src="https://img.shields.io/badge/Sequelize-172033?style=flat-square&amp;logo=sequelize&amp;logoColor=7dd3fc" alt="Sequelize" /> <img src="https://img.shields.io/badge/Firebase-172033?style=flat-square&amp;logo=firebase&amp;logoColor=facc15" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Deployment</b></td>
+    <td><img src="https://img.shields.io/badge/Vercel-172033?style=flat-square&amp;logo=vercel&amp;logoColor=e2e8f0" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-172033?style=flat-square&amp;logo=netlify&amp;logoColor=5eead4" alt="Netlify" /></td>
+  </tr>
+</table>
+
+<br />
+
+### Beyond the commits
+
+<p>
+  <img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" width="100%" alt="Animated snake moving through my GitHub contribution grid" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Have an idea worth building? <a href="mailto:bmmankar25@gmail.com">Let's connect.</a></sub>
 </p>
