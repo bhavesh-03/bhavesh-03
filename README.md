@@ -96,9 +96,5 @@ I'm a software engineer at **JPMorganChase** in Mumbai. I enjoy turning ideas in
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="GitHub contribution snake" />
-</picture>
+<img src="https://raw.githubusercontent.com/bhavesh-03/bhavesh-03/output/snake.svg" alt="GitHub contribution snake" />
 </p>
